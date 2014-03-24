@@ -1,0 +1,25 @@
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes.dex : \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/io/cordova/hellocordova/BuildConfig.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/io/cordova/hellocordova/HelloCordova.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/io/cordova/hellocordova/R$attr.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/io/cordova/hellocordova/R$drawable.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/io/cordova/hellocordova/R$string.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/io/cordova/hellocordova/R$xml.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/io/cordova/hellocordova/R.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$1.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/MOMO-ADA/documents/dev/git/infancia-cuenta-android/platforms/android/ant-build/dexedLibs/classes-9dcbc81f9f30e9486a40ea00eabb75fa.jar \
