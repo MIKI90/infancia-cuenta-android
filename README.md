@@ -9,12 +9,17 @@ Aplicación para la visualización de datos abiertos sobre la población infanti
 
 Esta aplicación se encuentra realizada en html5 y se compilo con Apache Cordova (Phonegap) para dispositivos Android
 
+PROYECTO
+
 La ubicación  /platforms/android   contiene un projecto que puede ejecutarse en una IDE como eclipse.
 
 La ubicación www contiene el proyecto html5.
 
-Al seleccionar una fila en la tabla de consultas realizadas, puede compartir con sus aplicaciones twitter y facebook nativas
-los datos de la fila.
+CARACTERISTICAS
+
+Al seleccionar una fila en la tabla de consultas realizadas, puede compartir con sus aplicaciones twitter y facebook nativas los datos de la fila.
+
+Archivo pdf se visualizara en el navegador web, para descargarse es necesaria una memoria externa con espacio disponible.
 
 screenshots
  
