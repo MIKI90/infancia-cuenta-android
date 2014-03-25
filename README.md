@@ -24,6 +24,6 @@ screenshots
 
 ![Alt text](https://googledrive.com/host/0B65HWXQz0chKeUZpcHVkcXZrdnM/Captura de pantalla 2014-03-24 a la(s) 16.11.17.png "3")
 
-![Alt text](https://googledrive.com/host/0B65HWXQz0chKeUZpcHVkcXZrdnM/Captura de pantalla 2014-03-24 a la(s) 16.11.27.png"4")
+![Alt text](https://googledrive.com/host/0B65HWXQz0chKeUZpcHVkcXZrdnM/Captura de pantalla 2014-03-24 a la(s) 16.11.27.png "4")
 
 ![Alt text](https://googledrive.com/host/0B65HWXQz0chKeUZpcHVkcXZrdnM/Captura de pantalla 2014-03-24 a la(s) 16.11.51.png "5")
