@@ -1,7 +1,7 @@
 infancia-cuenta-android
 =======================
 
-Proyecto Cordova de la aplicacion html5 para android.
+Proyecto Cordova de la aplicación html5 para android.
 
 Cordova 3.4.0
 
@@ -11,7 +11,7 @@ Esta aplicación se encuentra realizada en html5 y se compilo con Apache Cordova
 
 PROYECTO
 
-La ubicación  /platforms/android   contiene un projecto que puede ejecutarse en una IDE como eclipse.
+La ubicación  /platforms/android   contiene un proyecto que puede ejecutarse en una IDE como eclipse.
 
 La ubicación www contiene el proyecto html5.
 
