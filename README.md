@@ -1,7 +1,7 @@
 infancia-cuenta-android
 =======================
 
-Compilado Cordova Project de la aplicacion html5 para android.
+Proyecto Cordova de la aplicacion html5 para android.
 
 Cordova 3.4.0
 
